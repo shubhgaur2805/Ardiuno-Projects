@@ -5,9 +5,9 @@
 #define Relay2 D2
 #define Relay3 D3
 #define Relay4 D4*/
-char ssid[]="BSNL FIBER";
-char pass[]="Mri@6023";
-char auth[]="27abJn4LP9XdlJjUrQ3SgyK6CYU32DNN";
+char ssid[]="YOUR SSID";
+char pass[]="YOUR PASS";
+char auth[]="YOUR AUTH";
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
