@@ -1,0 +1,5 @@
+Create Account at Adafruit.io
+Confrigure it
+copy unique id in code
+Create Account IFTTT
+Create Applet 

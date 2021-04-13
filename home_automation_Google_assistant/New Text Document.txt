@@ -1,0 +1,4 @@
+Create account in adafruit.io
+then connect adafruit to IFTTT
+then set IF and THEN 
+Enjoy!!
